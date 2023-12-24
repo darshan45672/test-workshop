@@ -1,6 +1,0 @@
-print("hellop")
-print("hellop")
-print("hellop")
-print("hellop")
-print("hellop")
-print("hellop")
